@@ -23,7 +23,10 @@ organized? How would branches help?
 	When you want to create two different versions
 	
 How do the diagrams help you visualize the branch structure?
-
+	by seeing which nodes are connected to which parents
+	allow to view new branches
+	allow to visualise detatched HEAD (reachability)
+	
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
