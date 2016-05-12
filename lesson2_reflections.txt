@@ -34,3 +34,7 @@ the diagram the way we do?
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+	Pro is its fast
+	Con is it could make mistakes
+	Hence reason for conflicts if anything is not 100% certain
+	By uncertain, would be if the same parts of the file were modified in the two different versions
