@@ -32,5 +32,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you specifically want to collaborate with others on the problem
+    Will allow conflicts to be resolved without affecting master
+    You test by merging master into your test-branch first
+    Finally then you can complete the pull request, that will merge this branch into master
     
